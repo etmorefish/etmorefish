@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Algorithm and Golang.
+- 🌱 I’m currently learning  Golang.
