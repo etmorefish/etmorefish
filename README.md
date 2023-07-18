@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning  CloudNative.
+- 🌱 I’m  building an AIGC platform.
+- 👯 I’m looking to collaborate on AIGC.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etmorefish)](https://github.com/anuraghazra/github-readme-stats)
 
